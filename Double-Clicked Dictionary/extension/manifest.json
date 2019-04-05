@@ -1,0 +1,31 @@
+{
+	"manifest_version": 2,
+	"name":"Double-Clicked Dictionary",
+	"description":"The Double-Clicked Dictionary helps you look up new vocabularies faster by taking double-clicked on the vocabularies, and then a new tab with https://www.oxfordlearnersdictionaries.com/ is poped up and shows the vocabularies.",
+	"version": "1",
+	"author": "Nam Nguyen",
+	"icons":{
+		"48": "pop_up/1.png"
+	},
+	"browser_action": {
+		"default_popup": "pop_up/index.html",
+		"default_icon": "pop_up/1.png"
+	},
+	"background":{
+		"scripts": ["background.js"]
+	},
+	"content_scripts":[
+		{
+		"matches": [
+			"<all_urls>"
+			],
+		"js": [
+			"doubleClick.js"
+			]
+		}
+	],
+	"permissions":[
+		"tabs",
+		"activeTab"
+	]
+}
