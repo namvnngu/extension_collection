@@ -12,7 +12,7 @@
 ### *I hope that it will support you to learn more new vocabularies and improve your English.*
 
 
-## **Reference and Sources**
+## **References and Sources**
 * [Oxford Dictionary](https://www.oxfordlearnersdictionaries.com)
 * [Stack Overflow](https://stackoverflow.com/)
 
