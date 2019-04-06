@@ -1,4 +1,4 @@
-# **Collection of Chrome Browser Extension** :blush:
+# **Collection of Chrome Browser Extensions** :blush:
 
 ### I started to challenge myself to build my own _Chrome Extension_. Although I referenced online resources to build the extensions which are probably available on the internet, I tried to build extensions by my own way and these are reasons I decided to create Chrome Extension:
 1. Improve and level up my programming skill :star:
