@@ -7,10 +7,13 @@
 4. Make my life easier while surfing the internet. :tada:
 
 ### **Instruction:**
-1. Click **Clone or Download** and then **Download ZIP** ![ZIP](/images/1.PNG)
+1. Click **Clone or Download** and then **Download ZIP** 
+    ![ZIP](/images/1.PNG)
 2. Unzip the zip file that you have downloaded
-3. Open Chrome Browser and type **chrome://extensions** ![image](/images/2.PNG)
-4. Look at the top right corner, and click to turn on **Developer Mode** ![image](/images/3.PNG)
+3. Open Chrome Browser and type **chrome://extensions** 
+    ![image](/images/2.PNG)
+4. Look at the top right corner, and click to turn on **Developer Mode** 
+    ![image](/images/3.PNG)
 5. Click **Load unpacked**
 
     ![image](/images/4.PNG)
